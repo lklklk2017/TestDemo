@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-19T09:27:22.860Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="2nv494PuhV-xcT3XsiSL" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-19T09:27:37.448Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="czR7ubFIBB3zhuwly3y4" version="21.7.5" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="2537" dy="907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -73,9 +73,6 @@
         </mxCell>
         <mxCell id="wsWi3bMlTMWLQj8raXSB-93" value="&lt;div style=&quot;font-family: &amp;quot;Source Code Pro&amp;quot;, monospace; font-size: 11.3pt;&quot;&gt;&lt;div style=&quot;font-size: 11.3pt;&quot;&gt;&lt;div style=&quot;font-size: 10.5pt;&quot;&gt;PowerManager&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="466" y="70" width="110" height="850" as="geometry" />
-        </mxCell>
-        <mxCell id="wsWi3bMlTMWLQj8raXSB-95" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="wsWi3bMlTMWLQj8raXSB-93" vertex="1">
-          <mxGeometry x="50" y="701" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wsWi3bMlTMWLQj8raXSB-41" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="wsWi3bMlTMWLQj8raXSB-93" vertex="1">
           <mxGeometry x="50" y="322" width="10" height="125" as="geometry" />
